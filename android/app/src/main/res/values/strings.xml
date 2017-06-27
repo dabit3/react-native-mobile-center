@@ -1,0 +1,5 @@
+<resources>
+    <string moduleConfig="true" name="mobileCenterAnalytics_whenToEnableAnalytics">ALWAYS_SEND</string>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">EclXnXuBIYeb46EloIsVPN8Q-4Yy28861a72-2714-4eae-bc3e-d2ebcfbfae07</string>
+    <string name="app_name">RNMobileCenter</string>
+</resources>
